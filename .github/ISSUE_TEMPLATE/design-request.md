@@ -1,32 +1,24 @@
 ---
 name: Design Request
-about: 'Template para documentar pedidos de diseño con contexto, objetivos y entregables. '
+about: Template para documentar solicitudes de nuevas funcionalidades o mejoras significativas
+  en la plataforma.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**¿A qué usuarios afecta?**
-_Describir el tipo de usuario impactado por esta funcionalidad_
+**Descripción**
+_Explicar de forma clara y concisa qué funcionalidad se está solicitando. Incluir el problema que busca resolver, el contexto en el que surge y cualquier detalle relevante que ayude a entender la necesidad._
 
-**¿Cuál es el objetivo de esta feature?**
-_Qué se busca lograr con este pedido de diseño. ¿Qué problema resuelve o qué mejora propone?_
+(_Ejemplo: Se necesita agregar un botón de “Cancelar pedido” en el historial de compras del usuario, para evitar que tenga que contactar soporte por cambios menores._)
 
-**¿A qué partes de la plataforma impacta?**
-_Qué secciones, módulos o pantallas se verán modificadas._
+**Diseño**
+_Agregar los recursos visuales necesarios para implementar la funcionalidad. Esto puede incluir capturas de pantalla, enlaces a Figma, wireframes, referencias visuales o componentes reutilizables._
 
-- ¿En qué canal o canales tendrá impacto esta nueva funcionalidad?
-- [ ] End User
-- [ ] Backoffice
-- [ ] Plataforma (ambas)
+Screenshot + Link a Figma
 
-**¿Qué se necesita agregar / hacer / modificar?**
-_Describir los entregables esperados: nuevos componentes, ajustes visuales, rediseños, ilustraciones, etc._
-
-**¿Se necesita responsiveness?**
-
-**Links de referencia**
-_Agregar enlaces útiles para el diseño: Figma, screenshots, ejemplos de otras plataformas, documentación técnica, etc._
-
-(https://)
+**Criterios de aceptación**
+- [ ] ejemplo
+- [ ] ejemplo
+- [ ] ejemplo
