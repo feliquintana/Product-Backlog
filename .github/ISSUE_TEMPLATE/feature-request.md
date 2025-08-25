@@ -7,11 +7,14 @@ assignees: ''
 
 ---
 
-**¿A qué usuarios afecta?**
-_Describir el tipo de usuario impactado por esta funcionalidad_
-
 **¿Cuál es el objetivo de esta feature?**
 _Qué se busca lograr con este pedido de diseño. ¿Qué problema resuelve o qué mejora propone?_
+
+**Descripción**
+_________________________________________
+
+**¿A qué usuarios afecta?**
+_Describir el tipo de usuario impactado por esta funcionalidad_
 
 **¿A qué partes de la plataforma impacta?**
 _Qué secciones, módulos o pantallas se verán modificadas._
